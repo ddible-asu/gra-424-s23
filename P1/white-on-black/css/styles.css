@@ -7,10 +7,10 @@
 
 .square1 {
     display: flex;
-    border: 0.25pt solid rgb(0, 0, 0);
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
+    background-color: white;
 }
 
 .square2 {
@@ -23,7 +23,7 @@
 
 .square3 {
     display: flex;
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     width: 14.285714vw;
     height: 14.285714vh;
     margin: auto;
@@ -31,9 +31,8 @@
 
 .square4 {
     display:flex;
-    background-color:rgb(255 255 255);
+    background-color:white;
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
-    border: 0.25px solid black;
 }
