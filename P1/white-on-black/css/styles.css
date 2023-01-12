@@ -1,8 +1,8 @@
 .container {
-    display:flex;
-    background-color: white;
+    display: flex;
     width: 100%;
     height: 100%;
+    background-color: rgb(245, 245, 245);
 }
 
 .square1 {
