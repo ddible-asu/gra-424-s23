@@ -14,8 +14,15 @@
     margin: auto;
 }
 
-
 .box1 {
+    display: flex;
+    background-color: #fff;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
+.box2 {
     display: flex;
     background-color: #fff;
     width: 42.857143vw;
